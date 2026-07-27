@@ -18,13 +18,17 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="opacity:0.85"/>
 
-- 🤖 **AI Engineer & Software Engineer** — I design and ship systems where machine learning meets real production infrastructure
-- 🏛️ **Future AI Architect** — evolving from building models to architecting the platforms, pipelines, and cloud systems that run them at scale
-- ☁️ Deep diving into **Cloud Computing**, distributed systems, and scalable AI infrastructure
-- 🔭 Currently building **Generative AI & Agentic ML systems**
-- 🌱 Leveling up in **Advanced Agentic AI, LLM Orchestration, NLP & Offensive Security**
-- 💬 Ask me about **Python, LangChain, Streamlit, Cloud Deployments & Linux**
-- ⚡ Fun fact: **I break systems in CTF labs and rebuild them better in production**
+💻 Software Engineer — Crafting robust, maintainable backend software and scalable system architectures with Python
+
+🤖 AI Infrastructure & Systems — Bridging clean code principles with modern Machine Learning and Agentic AI deployment
+
+☁️ Future Cloud Architect — Building strong fundamentals in Cloud Computing, distributed networks, and DevOps workflows
+
+🔬 Primary Stack & Focus — Deep-diving into Python, Building async backends with Python, FastAPI & PostgreSQL • RESTful API Design • Redis Caching • Distributed Systems
+
+🛠️ Currently building Agentic ML Workflows & Intelligent Automation Tools
+
+⚡ Fun fact: I break systems in CTF labs to understand how to build resilient software in production
 
 <br clear="right"/>
 
