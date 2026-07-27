@@ -53,8 +53,6 @@ flowchart LR
     style F fill:#252542,stroke:#f093fb,stroke-width:2px,color:#fff
 ```
 
-*I don't just train models — I architect the systems around them: scalable pipelines, cloud infrastructure, and agentic orchestration that turn an idea into a production-grade product.*
-
 </div>
 
 <br/>
