@@ -110,21 +110,13 @@ flowchart LR
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TALHA-ABDUL-RAUF&theme=radical&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</div>
-
 <br/>
 
 ## 📬 Let's Connect & Build Something
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="www.linkedin.com/in/talha-abdul-rauf-771031347" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
