@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=TALHA%20ABDUL%20RAUF&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Software%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%26%20DevOps%20Learner&descAlignY=55&descSize=16&descColor=e0e0ff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=TALHA%20ABDUL%20RAUF&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Software%20Engineer%20%E2%80%A2%20Cloud%20Infrastructure%20%26%20DevOps%20Learner&descAlignY=55&descSize=17&descColor=e0e0ff"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Developing+Intelligent+Systems+at+Scale;Building+Agentic+AI+%2B+Cloud-Native+Solutions;Software+Engineer+by+Craft%2C+Cloud-Enthusiast;From+Model+to+Production+%E2%80%94+End+to+End" alt="Typing SVG"/>
 
