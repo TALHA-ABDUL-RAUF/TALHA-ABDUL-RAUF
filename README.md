@@ -18,12 +18,12 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="opacity:0.85"/>
 
-- 💻 **Software Engineer** — Crafting robust, maintainable backend software and scalable system architectures with Python
-- 🤖 **AI Infrastructure & Systems** — Bridging clean code principles with modern Machine Learning and Agentic AI deployment
-- ☁️ **Future Cloud Architect** — Building strong fundamentals in Cloud Computing, distributed networks, and DevOps workflows
-- 🔬 **Primary Stack & Focus** — Async backends with Python, FastAPI & PostgreSQL • RESTful API Design • Redis Caching • Distributed Systems
-- 🛠️ **Currently Building** — Agentic ML Workflows & Intelligent Automation Tools
-- ⚡ **Fun Fact** — I break systems in CTF labs to understand how to build resilient software in production
+- 💻 **Software Engineer**  Crafting robust, maintainable backend software and scalable system architectures with Python
+- 🤖 **AI Infrastructure & Systems**  Bridging clean code principles with modern Machine Learning and Agentic AI deployment
+- ☁️ **Future Cloud Architect**  Building strong fundamentals in Cloud Computing, distributed networks, and DevOps workflows
+- 🔬 **Primary Stack & Focus**  Async backends with Python, FastAPI & PostgreSQL • RESTful API Design • Redis Caching • Distributed Systems
+- 🛠️ **Currently Building**  Agentic ML Workflows & Intelligent Automation Tools
+- ⚡ **Fun Fact**  I break systems in CTF labs to understand how to build resilient software in production
 
 <br clear="right"/>
 
