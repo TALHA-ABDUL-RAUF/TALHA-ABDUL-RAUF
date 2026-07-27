@@ -15,6 +15,7 @@
 <br/>
 
 >
+</div> <br/> <!-- ================= ABOUT ================= -->
 🧬 About Me
 <img align="right" width="230" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="opacity:0.85"/>
 💻 Software Engineer — Crafting robust, maintainable backend software and scalable system architectures with Python
