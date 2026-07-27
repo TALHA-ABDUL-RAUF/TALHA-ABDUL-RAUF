@@ -1,20 +1,36 @@
-Readme · MD
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=280&section=header&text=TALHA%20ABDUL%20RAUF&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Cloud%20Solutions%20Enthusiast&descAlignY=55&descSize=17&descColor=e0e0ff"/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Developing+Intelligent+Systems+at+Scale;Building+Agentic+AI+%2B+Cloud-Native+Solutions;Software+Engineer+by+Craft%2C+Cloud-Enthusiast;From+Model+to+Production+—+End+to+End" alt="Typing SVG"/> <br/> <a href="https://www.linkedin.com/in/talha-abdul-rauf-771031347/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/TALHA-ABDUL-RAUF" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:example@email.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=TALHA%20ABDUL%20RAUF&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20Cloud%20Solutions%20Enthusiast&descAlignY=55&descSize=17&descColor=e0e0ff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=764ABA&center=true&vCenter=true&width=650&lines=Developing+Intelligent+Systems+at+Scale;Building+Agentic+AI+%2B+Cloud-Native+Solutions;Software+Engineer+by+Craft%2C+Cloud-Enthusiast;From+Model+to+Production+%E2%80%94+End+to+End" alt="Typing SVG"/>
 
 <br/><br/>
 
-Show Image Show Image Show Image
+![](https://img.shields.io/badge/dynamic/json?color=667eea&label=PROFILE%20VIEWS&query=%24.count&url=https://api.countapi.xyz/hit/talha-abdul-rauf/views&style=for-the-badge&logo=googleanalytics&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/TALHA-ABDUL-RAUF?style=for-the-badge&color=764ba2&labelColor=1a1a2e&logo=github)
+![Stars](https://img.shields.io/github/stars/TALHA-ABDUL-RAUF?style=for-the-badge&color=f093fb&labelColor=1a1a2e&logo=star)
 
-</div> <br/> <!-- ================= ABOUT ================= -->
-🧬 About Me
+</div>
+
+<br/>
+
+## 🧬 About Me
+
 <img align="right" width="230" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" style="opacity:0.85"/>
+
 💻 Software Engineer — Crafting robust, maintainable backend software and scalable system architectures with Python
+
 🤖 AI Infrastructure & Systems — Bridging clean code principles with modern Machine Learning and Agentic AI deployment
+
 ☁️ Future Cloud Architect — Building strong fundamentals in Cloud Computing, distributed networks, and DevOps workflows
-🔬 Primary Stack & Focus — Async backends with Python, FastAPI & PostgreSQL • RESTful API Design • Redis Caching • Distributed Systems
-🛠️ Currently Building — Agentic ML Workflows & Intelligent Automation Tools
-⚡ Fun Fact — I break systems in CTF labs to understand how to build resilient software in production
-<br clear="right"/> <br/>
+
+🔬 Primary Stack & Focus — Deep-diving into Python, Building async backends with Python, FastAPI & PostgreSQL • RESTful API Design • Redis Caching • Distributed Systems
+
+🛠️ Currently building Agentic ML Workflows & Intelligent Automation Tools
+
+⚡ Fun fact: I break systems in CTF labs to understand how to build resilient software in production
+
+<br clear="right"/>
 
 ## 🏗️ My Engineering Philosophy
 
